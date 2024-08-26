@@ -19,7 +19,7 @@ Users can register and log in securely using Firebase Authentication. The app su
 ### 2. Graph Visualizer
 The Graph Visualizer allows users to create, manipulate, and explore graphs in real-time, providing a hands-on approach to learning graph algorithms and properties.
 
-<img src="images/visualizer.gif" width="300" alt="Visualizer">
+<img src="images/visualizer.gif" width="400" alt="Visualizer">
 
 ### 3. Curated Videos
 GraphV-iOS integrates with the YouTube API to offer a curated selection of educational videos covering various graph theory topics. These videos provide visual and auditory learning opportunities, enhancing the educational experience.
